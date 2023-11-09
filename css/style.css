@@ -1,0 +1,34 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: beige;
+  font-family: sans-serif;
+  color: black;
+}
+header,
+footer,
+section {
+  padding: 20px;
+}
+
+header {
+  background-color: aqua;
+  color: crimson;
+}
+
+.experience,
+.competence {
+  border-bottom: 10px solid black;
+}
+
+h2 {
+  background-color: burlywood;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ {
+  font-family: " DM serif display ";
+}
