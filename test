@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>cv Marvyn Tchicaya</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300;1,500&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="marvyn pp.JPG" alt="Photo de Marvyn" width="300" height="300" class="rounded-image">
+        <div class="nom">
+            <h1>Marvyn Tchicaya</h1>
+        </div>
+        <div class="contact">
+            <p class="centered-text"> Je suis peut-être pas la chips la plus craquante du paquet mais je peux faire
+                craquer pour être un alternant 
+            </p>
+        </div>
+    </header>
+
+    <div class="content">
+        <div class="col-1">
+            <section>
+                <h2 class="centered-text">Langue</h2>
+                <ul class="centered-text">
+                    <li>anglais ⭐⭐⭐  </li>
+                    <li>espagnol⭐⭐</li>
+                </ul>
+            </section> <br> <br> <br> <br> <br> <br><br> <br> <br> 
+
+            <section>
+                <h2 class="centered-text">Information personnelle </h2>
+                <ul class="centered-text">
+                    <li>né le 15/03/2005 </li>
+                    <li>profil; intéressé par le numérique et l'évolution du digital mon école me permet de me faire une idée du marketing digital/ communication graphique
+                      /web desing et le développement web. Cela dit le développement web est la spécialité dont je pourrais le mieux m'épanouir ainsi , performer dans mon domaine  </li>
+                </ul>
+            </section> <br> <br><br> <br><br> <br><br> <br><br> <br> <br> <br><br> <br>
+
+            <section>
+                <nav class="centered-text">
+                    <h2>Contact</h2>
+                    <ul>
+                        <li> <a href="+33 6 98 59 66 07 ">téléphone </a> </li>
+                        <li> <a href="https://mail.google.com/mail/u/0/?pli=1#inbox">Email</a> </li>
+                        <li> <a href="https://www.linkedin.com/in/marvyn-tchicaya-9562a6298/ "> linkedin </a></li>
+                        <li> <a href="https://normandiewebschool.fr"> NWS</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </div>
+
+        <div class="col-2">
+            <section>
+                <h2 class="centered-text">Expériences </h2>
+                <ul class="centered-text">
+                    <li>
+                        <h3>Mon premier job</h3>
+                        <strong>Juillet 2023 - septembre 2023: Préparateur de commande chez ATA</strong>
+                        Ce travail m'a permis de découvrir le monde du travail ainsi que son enjeu. Cela m'a aussi
+                        permis de développer des qualités telles que l'esprit d'équipe, l'adaptation et la patience
+                    </li>
+                </ul>
+                <ul class="centered-text">
+                    <li>
+                        <h3>Stage</h3>
+                        <strong>stage de 10 jours: Carlo Erba</strong>
+                        Ce stage m'a permis de découvrir l'organisation et la structuration d'une entreprise ainsi
+                        qu'une connaissance de chaque secteur
+                    </li>
+                </ul>
+            </section>
+
+            <section>
+                <h2 class="centered-text">Formation</h2>
+                <ul class="centered-text">
+                    <li><strong>web school normandie:2023-2026</strong></li>
+                    formation dans le numérique afin d'acquérir le titre; chef de projet digital
+                </ul>
+                <ul class="centered-text">
+                    <li>
+                        <strong>lycée Jean-Baptiste de la salle:2020-2023</strong>
+                        <li> baccalauréat général ayant la spécialité géopolitique/science économique et sociale
+                        </li>
+                    </li>
+                </ul>
+            </section>
+
+            <section>
+                <table class="centered-text">
+                    <caption><h2>Compétence</h2></caption>
+                    <thead>
+                        <tr>
+                            <th scope="col"><h3>hard skills</h3></th>
+                            <th scope="col"><h3>soft skills</h3></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <ul>
+                                    <li>environnement de développement et sécurité</li>
+                                    <li>base du développement et algorithmie </li>
+                                    <li>fronted: javascript </li>
+                                    <li>backend: PHP </li>
+                                    <li>base de données et SQL</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>patient </li>
+                                    <li>ambitieux</li>
+                                    <li>polyvalent </li>
+                                    <li>adaptation du travail </li>
+                                    <li>esprit d'équipe</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section>
+                <h2 class="centered-text">Loisir et centre d'intérêt </h2>
+                <ul class="centered-text">
+                    <li>
+                        <h3>sport</h3>
+                        natation:2008-2019
+                    </li>
+                    foootball:2009-2012
+                    <li> triathlon:2023-2024 </li>
+                </ul>
+                <ul class="centered-text">
+                    <li><strong>entreprenariat </strong></li>
+                </ul>
+                <ul class="centered-text">
+                    <li><strong>jeux vidéo</strong></li>
+                </ul>
+                <ul class="centered-text">
+                    <li> <strong> survie</strong></li>
+                </ul>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        <h3 class="centered-text">Dans l’espoir que ma candidature puisse retenir votre attention, recevez mes
+            salutations distinguées.</h3>
+    </footer>
+
+</body>
+
+</html>
